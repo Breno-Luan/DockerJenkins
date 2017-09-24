@@ -1,2 +1,2 @@
- db:
-  image: postgres:9.4
+db:
+  image: postgres:9.5
